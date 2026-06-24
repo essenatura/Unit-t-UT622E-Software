@@ -23,7 +23,7 @@ This project was built specifically for **live streaming (OBS Studio)** and **St
 * `pyserial` library (for COM port communication)
 
 ### Dependencies Installation:
-```bash
+
 pip install pyserial
 
 <p align="center"> <img src="images/UT622E-C.png" width="220" alt="Main Screen"> <img src="images/UT622E-L.png" width="220" alt="Future Weather"> <img src="images/Widget.png" width="220" alt="Widget"> </p>
