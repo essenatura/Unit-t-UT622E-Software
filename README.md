@@ -26,5 +26,3 @@ This project was built specifically for **live streaming (OBS Studio)** and **St
 
 pip install pyserial
 
-<p align="center"> <img src="images/UT622E-C.png" width="220" alt="Main Screen"> <img src="images/UT622E-L.png" width="220" alt="Future Weather">  </p>
-<p align="center"> <img src="images/UT622E-R.png" width="220" alt="Languages"> </p>
